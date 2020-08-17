@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="darkTitleBar" value="false" />
+    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="5e7a962e:16ea8c1b172:-8000" />
-    <option name="version" value="4.10.0" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
